@@ -42,7 +42,6 @@ public class MainActivity extends AppCompatActivity {
 
     private static final String TAG = "mytag";
 
-    private static final int REQUEST_CAMERA_CODE = 0;
     @BindView(R.id.btn_choose)
     Button btnChoose;
 
